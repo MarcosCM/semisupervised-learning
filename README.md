@@ -4,9 +4,7 @@
 
 Semisupervised learning using a graph-based algorithm.
 
-## Author
-
-[Marcos Canales Mayo](https://github.com/MarcosCM)
+## References
 
 Main code developed by **Javier Civera** -- jcivera@unizar.es
 
